@@ -78,10 +78,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Kenny Amoussou — Portfolio" },
+      { title: "Dev-designer — Portfolio" },
       { name: "description", content: "Webmaster, designer et développeur front-end." },
-      { name: "author", content: "Kenny Amoussou" },
-      { property: "og:title", content: "Kenny Amoussou — Portfolio" },
+      { name: "author", content: "Dev-designer" },
+      { property: "og:title", content: "Dev-designer — Portfolio" },
       { property: "og:description", content: "Webmaster, designer et développeur front-end." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
