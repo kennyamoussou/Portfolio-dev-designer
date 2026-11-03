@@ -1,0 +1,70 @@
+{
+ "hero": [
+  {
+   "src": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Code sur un ordinateur portable"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Bureau de webdesigner"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Palette de design graphique"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Tableau de bord analytique"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Interface mobile"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Maquettes UX sur papier"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Développement sur portable"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Lignes de code colorées"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Prototype d'interface"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Wireframes d'application"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Design créatif à l'écran"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Espace de travail lumineux"
+  }
+ ],
+ "about": {
+  "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=2000&q=82&fm=jpg&fit=max",
+  "alt": "Kenny Amoussou"
+ },
+ "testimonials": [
+  {
+   "src": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Équipe autour d'un site vitrine"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Boutique en ligne"
+  },
+  {
+   "src": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?w=2000&q=82&fm=jpg&fit=max",
+   "alt": "Studio créatif"
+  }
+ ]
+}
