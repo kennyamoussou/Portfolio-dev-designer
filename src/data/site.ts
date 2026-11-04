@@ -24,9 +24,9 @@ export const SITE = {
 	/** Optional — leave empty ('') to hide the phone everywhere */
 	phone: '',
 	socials: [
-		{ label: 'Instagram', href: '#' },
+		{ label: 'WhatsApp', href: 'https://wa.me/2290197446633' },
 		{ label: 'Tik-tok', href: 'https://www.tiktok.com/@devdesigner1' },
-		{ label: 'LinkedIn', href: '#' },
+		{ label: 'LinkedIn', href: 'https://www.linkedin.com/in/kenny-amoussou-b09a84395/' },
 	],
 };
 

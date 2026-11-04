@@ -1,13 +1,13 @@
 [
  {
-  "slug": "cabinet-horizon",
-  "title": "Cabinet Horizon",
+  "slug": "dmbtp",
+  "title": "dmbtp",
   "category": "Site vitrine",
-  "year": 2025,
+  "year": 2026,
   "details": [
    {
     "label": "Client",
-    "value": "Cabinet Horizon"
+    "value": "dmbtp"
    },
    {
     "label": "Rôle",
@@ -22,45 +22,45 @@
     "value": "WordPress"
    }
   ],
-  "summary": "Un site vitrine clair pour un cabinet de conseil.",
+  "summary": "Un site vitrine clair pour une entreprise de BTP.",
   "description": [
-   "Un site vitrine clair pour un cabinet de conseil. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
+   "Le site vitrine a été conçu pour une entreprise de BTP, avec pour objectif un site moderne, rapide et simple à mettre à jour. Les maquettes ont été validées avant le développement, puis le site a été mis en ligne et l’équipe formée à sa gestion : ajout de réalisations avec photos, mise à jour des zones d’intervention, publication d’actualités de chantier.",
+   "Les visiteurs y trouvent rapidement les types de travaux (gros œuvre, rénovation, aménagement), les réalisations récentes, les certifications (Qualibat ou RGE, par exemple) et les moyens de demander un devis."
   ],
   "cover": {
    "src": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "Cabinet Horizon",
+   "alt": "dmbtp",
    "width": 2000,
    "height": 1333
   },
   "gallery": [
    {
     "src": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Cabinet Horizon — vue 1"
+    "alt": "dmbtp — vue 1"
    },
    {
     "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Cabinet Horizon — vue 2"
+    "alt": "dmbtp — vue 2"
    },
    {
     "src": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Cabinet Horizon — vue 3"
+    "alt": "dmbtp — vue 3"
    },
    {
     "src": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Cabinet Horizon — vue 4"
+    "alt": "dmbtp — vue 4"
    }
   ]
  },
  {
-  "slug": "maison-kora",
-  "title": "Maison Kora",
+  "slug": "Kazama Tech",
+  "title": "Kazama Tech",
   "category": "E-commerce",
-  "year": 2025,
+  "year": 2026,
   "details": [
    {
     "label": "Client",
-    "value": "Maison Kora"
+    "value": "Kazama Tech"
    },
    {
     "label": "Rôle",
@@ -75,33 +75,33 @@
     "value": "WooCommerce"
    }
   ],
-  "summary": "Une boutique en ligne pour une marque de mode africaine.",
+  "summary": "Une boutique en ligne pour la vente de téléphones portables.",
   "description": [
-   "Une boutique en ligne pour une marque de mode africaine. Le brief : un site moderne, rapide et simple à mettre à jour.",
+   "Une boutique en ligne pourpour la vente de téléphones portables. Le brief : un site moderne, rapide et simple à mettre à jour.",
    "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
   ],
   "cover": {
    "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "Maison Kora",
+   "alt": "Kazama Tech",
    "width": 2000,
    "height": 2000
   },
   "gallery": [
    {
     "src": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Maison Kora — vue 1"
+    "alt": "Kazama Tech— vue 1"
    },
    {
     "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Maison Kora — vue 2"
+    "alt": "Kazama Tech — vue 2"
    },
    {
     "src": "https://images.unsplash.com/photo-1545235617-9465d2a55698?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Maison Kora — vue 3"
+    "alt": "Kazama Tech — vue 3"
    },
    {
     "src": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Maison Kora — vue 4"
+    "alt": "Kazama Tech — vue 4"
    }
   ]
  },
@@ -159,120 +159,14 @@
   ]
  },
  {
-  "slug": "resto-saveurs",
-  "title": "Saveurs du Golfe",
-  "category": "Site vitrine",
-  "year": 2024,
-  "details": [
-   {
-    "label": "Client",
-    "value": "Saveurs du Golfe"
-   },
-   {
-    "label": "Rôle",
-    "value": "Design & intégration"
-   },
-   {
-    "label": "Livrables",
-    "value": "Site responsive, prise en main"
-   },
-   {
-    "label": "Outils",
-    "value": "WordPress"
-   }
-  ],
-  "summary": "Un site avec menu et réservation pour un restaurant.",
-  "description": [
-   "Un site avec menu et réservation pour un restaurant. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
-  ],
-  "cover": {
-   "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "Saveurs du Golfe",
-   "width": 2000,
-   "height": 1333
-  },
-  "gallery": [
-   {
-    "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Saveurs du Golfe — vue 1"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Saveurs du Golfe — vue 2"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Saveurs du Golfe — vue 3"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Saveurs du Golfe — vue 4"
-   }
-  ]
- },
- {
-  "slug": "agence-pulse",
-  "title": "Agence Pulse",
-  "category": "Front-end",
-  "year": 2025,
-  "details": [
-   {
-    "label": "Client",
-    "value": "Agence Pulse"
-   },
-   {
-    "label": "Rôle",
-    "value": "Développement front-end"
-   },
-   {
-    "label": "Livrables",
-    "value": "Site responsive, prise en main"
-   },
-   {
-    "label": "Outils",
-    "value": "React"
-   }
-  ],
-  "summary": "Un site animé sur mesure pour une agence de communication.",
-  "description": [
-   "Un site animé sur mesure pour une agence de communication. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
-  ],
-  "cover": {
-   "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "Agence Pulse",
-   "width": 2000,
-   "height": 1333
-  },
-  "gallery": [
-   {
-    "src": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Agence Pulse — vue 1"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Agence Pulse — vue 2"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Agence Pulse — vue 3"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Agence Pulse — vue 4"
-   }
-  ]
- },
- {
-  "slug": "ecole-lumiere",
-  "title": "École Lumière",
+  "slug": "le grossiste",
+  "title": "Le Grossiste",
   "category": "Refonte",
   "year": 2023,
   "details": [
    {
     "label": "Client",
-    "value": "École Lumière"
+    "value": "Le Grossiste"
    },
    {
     "label": "Rôle",
@@ -287,151 +181,45 @@
     "value": "WordPress"
    }
   ],
-  "summary": "Refonte complète du site d'une école privée.",
+  "summary": "Refonte complète du site de vente de produits et de marchandises.",
   "description": [
-   "Refonte complète du site d'une école privée. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
+   "Refonte d’un site de vente en gros de produits et de marchandises, destiné aux revendeurs et aux professionnels. Le brief : un site moderne, rapide et simple à mettre à jour, avec un catalogue facile à faire évoluer et une navigation claire pour les acheteurs..",
+   "Après validation des maquettes ensemble, j’ai développé et mis en ligne le nouveau site, puis formé l’équipe à sa gestion au quotidien : ajout de produits, mise à jour des prix et des stocks, suivi des commandes. (Projet d’exemple, à remplacer par vos vrais projets.). (Projet d'exemple, à remplacer par vos vrais projets.)"
   ],
   "cover": {
    "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "École Lumière",
+   "alt": "Le Grossiste",
    "width": 2000,
    "height": 2500
   },
   "gallery": [
    {
     "src": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "École Lumière — vue 1"
+    "alt": "Le Grossiste     — vue 1"
    },
    {
     "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "École Lumière — vue 2"
+    "alt": "Le Grossiste — vue 2"
    },
    {
     "src": "https://images.unsplash.com/photo-1545235617-9465d2a55698?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "École Lumière — vue 3"
+    "alt": "Le Grossiste — vue 3"
    },
    {
     "src": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "École Lumière — vue 4"
+    "alt": "Le Grossiste — vue 4"
    }
   ]
  },
  {
-  "slug": "kente-shop",
-  "title": "Kente Shop",
-  "category": "E-commerce",
-  "year": 2024,
-  "details": [
-   {
-    "label": "Client",
-    "value": "Kente Shop"
-   },
-   {
-    "label": "Rôle",
-    "value": "Développement"
-   },
-   {
-    "label": "Livrables",
-    "value": "Site responsive, prise en main"
-   },
-   {
-    "label": "Outils",
-    "value": "WooCommerce"
-   }
-  ],
-  "summary": "Une boutique artisanale avec paiement mobile.",
-  "description": [
-   "Une boutique artisanale avec paiement mobile. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
-  ],
-  "cover": {
-   "src": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "Kente Shop",
-   "width": 2000,
-   "height": 1333
-  },
-  "gallery": [
-   {
-    "src": "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Kente Shop — vue 1"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Kente Shop — vue 2"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Kente Shop — vue 3"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1580894908361-967195033215?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "Kente Shop — vue 4"
-   }
-  ]
- },
- {
-  "slug": "fitlab",
-  "title": "FitLab",
-  "category": "Design UI / UX",
-  "year": 2023,
-  "details": [
-   {
-    "label": "Client",
-    "value": "FitLab"
-   },
-   {
-    "label": "Rôle",
-    "value": "Design UI / UX"
-   },
-   {
-    "label": "Livrables",
-    "value": "Site responsive, prise en main"
-   },
-   {
-    "label": "Outils",
-    "value": "Figma"
-   }
-  ],
-  "summary": "Maquettes d'une application de coaching sportif.",
-  "description": [
-   "Maquettes d'une application de coaching sportif. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
-  ],
-  "cover": {
-   "src": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=2000&q=82&fm=jpg&fit=max",
-   "alt": "FitLab",
-   "width": 2000,
-   "height": 2000
-  },
-  "gallery": [
-   {
-    "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "FitLab — vue 1"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "FitLab — vue 2"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "FitLab — vue 3"
-   },
-   {
-    "src": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=2000&q=82&fm=jpg&fit=max",
-    "alt": "FitLab — vue 4"
-   }
-  ]
- },
- {
-  "slug": "portfolio-ama",
-  "title": "Ama Photographie",
+  "slug": "freelancia",
+  "title": "Freelancia",
   "category": "Front-end",
   "year": 2025,
   "details": [
    {
     "label": "Client",
-    "value": "Ama Photographie"
+    "value": "Freelancia"
    },
    {
     "label": "Rôle",
@@ -443,13 +231,13 @@
    },
    {
     "label": "Outils",
-    "value": "HTML / CSS / JS"
+    "value": "HTML / CSS / JS / Bootstrap"
    }
   ],
-  "summary": "Un portfolio rapide pour une photographe.",
+  "summary": "Freelancia : site de vente de produits digitaux.",
   "description": [
-   "Un portfolio rapide pour une photographe. Le brief : un site moderne, rapide et simple à mettre à jour.",
-   "Après les maquettes validées ensemble, j'ai développé et mis en ligne le site, puis formé l'équipe à sa gestion. (Projet d'exemple, à remplacer par vos vrais projets.)"
+   "Freelancia souhaitait une boutique en ligne moderne, rapide et simple à mettre à jour pour vendre ses templates, guides et formations. Après validation des maquettes, j’ai développé le site, avec un catalogue organisé par catégories, des fiches produits claires et une livraison automatique des fichiers après achat.",
+   "Pour que l’équipe soit autonome, j’ai assuré une formation à la gestion du site : ajout de produits, modification des prix, création de promotions et publication de pages, sans intervention technique. (Projet d'exemple, à remplacer par vos vrais projets.)"
   ],
   "cover": {
    "src": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?w=2000&q=82&fm=jpg&fit=max",
