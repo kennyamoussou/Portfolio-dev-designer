@@ -23,6 +23,8 @@ export const SITE = {
 	email: 'kennyamoussou65@gmail.com',
 	/** Optional — leave empty ('') to hide the phone everywhere */
 	phone: '',
+	/** Optional — leave empty ('') to hide the WhatsApp contact line */
+	whatsapp: '+229 01 97 44 66 33',
 	socials: [
 		{ label: 'WhatsApp', href: 'https://wa.me/2290197446633' },
 		{ label: 'Tik-tok', href: 'https://www.tiktok.com/@devdesigner1' },

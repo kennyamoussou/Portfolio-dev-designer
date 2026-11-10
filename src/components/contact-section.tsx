@@ -130,6 +130,21 @@ export default function ContactSection() {
 								</dd>
 							</div>
 						)}
+						{SITE.whatsapp && (
+							<div className="flex items-center justify-between gap-4 border-b border-line py-4">
+								<dt className="text-stone">WhatsApp</dt>
+								<dd>
+									<a
+										href={`https://wa.me/${SITE.whatsapp.replace(/[\s+]/g, '')}`}
+										target="_blank"
+										rel="noopener noreferrer"
+										className="hover:opacity-70"
+									>
+										{SITE.whatsapp} <span className="text-stone">[ouvrir ↗]</span>
+									</a>
+								</dd>
+							</div>
+						)}
 						{SITE.city && (
 							<div className="flex items-center justify-between gap-4 border-b border-line py-4">
 								<dt className="text-stone">Studio</dt>
