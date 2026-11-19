@@ -50,7 +50,7 @@
   }
  ],
  "about": {
-  "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=2000&q=82&fm=jpg&fit=max",
+  "src": "/about-photo.jpg",
   "alt": "Kenny Amoussou"
  },
  "testimonials": [
